@@ -37,3 +37,12 @@ __no_touch__ = 3.14  # someone doesn't want you to mess with this!
 #To indicate an absence of value, variable can be assigned to the value None.
 
 nothing = None #here  variable 'nothing' doesnot have any value not even zero , 
+
+print("""Operators carry out arithmetic operations in Python
+
++ : Addition
+- : Subtraction
+* : Multiplication
+/  : Divide
+% : Modulus (Remainder after dividing)
+** : Exponents""")
